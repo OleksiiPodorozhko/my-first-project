@@ -1,2 +1,2 @@
 # my-first-project
-This is test
+This is test project for learning Git basics.
